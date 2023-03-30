@@ -1,0 +1,74 @@
+{
+	"EmailAddress" : "test1@sample.com",
+	"CoffeeScore" : 8.0,
+	"FoodScore" : 9.0,
+	"PriceScore" : 7.0,
+	"ServiceScore" : 8.5,
+	"AreaToImprove" : "MobileApp",
+	"FavoriteProduct" : "Latte",
+	"LeastFavoriteProduct" : "Fruit",
+	"WouldRecommend" : 8.0,
+	"Comments" : "Coffee and service are great!",
+	"responses": [
+	{
+		"EmailAddress" : "test1@sample.com",
+		"CoffeeScore" : 8.0,
+		"FoodScore" : 9.0,
+		"PriceScore" : 7.0,
+		"ServiceScore" : 8.5,
+		"AreaToImprove" : "MobileApp",
+		"FavoriteProduct" : "Latte",
+		"LeastFavoriteProduct" : "Fruit",
+		"WouldRecommend" : 8.0,
+		"Comments" : "Coffee and service are great!"
+	},
+	{
+		"EmailAddress" : "test2@sample.com",
+		"CoffeeScore" : 10.0,
+		"FoodScore" : 6.0,
+		"PriceScore" : 7.0,
+		"ServiceScore" : 8.5,
+		"AreaToImprove" : "MobileApp",
+		"FavoriteProduct" : "Cappucino",
+		"LeastFavoriteProduct" : "Fruit",
+		"WouldRecommend" : 8.0,
+		"Comments" : "The mobile app looks bad on android devices."
+	},
+	{
+		"EmailAddress" : "test3@sample.com",
+		"CoffeeScore" : 8.0,
+		"FoodScore" : 7.0,
+		"PriceScore" : 6.5,
+		"ServiceScore" : 8.5,
+		"AreaToImprove" : "Cleaniness",
+		"FavoriteProduct" : "Americano",
+		"LeastFavoriteProduct" : "Fruit",
+		"WouldRecommend" : 8.0,
+		"Comments" : "Overall I had a great experience. I like the store design."
+	},
+	{
+		"EmailAddress" : "test4@sample.com",
+		"CoffeeScore" : 9.0,
+		"FoodScore" : 5.0,
+		"PriceScore" : 7.5,
+		"ServiceScore" : 8.5,
+		"AreaToImprove" : "Pricing",
+		"FavoriteProduct" : "Cappucino",
+		"LeastFavoriteProduct" : "Fruit",
+		"WouldRecommend" : 4.0,
+		"Comments" : "The pickup area should close to the door. Also your price should be much lower."
+	},
+		{
+			"EmailAddress" : "test5@sample.com",
+			"CoffeeScore": 8.0,
+			"FoodScore": 7.0,
+			"PriceScore": 6.5,
+			"ServiceScore": 8.5,
+			"AreaToImprove": "Other",
+			"FavoriteProduct": "Iced Coffee",
+			"LeastFavoriteProduct": "Fruit",
+			"WouldRecommend": 6.0,
+			"Comments": "I like the store but the coffee are too expensive."
+		}
+	]
+}
