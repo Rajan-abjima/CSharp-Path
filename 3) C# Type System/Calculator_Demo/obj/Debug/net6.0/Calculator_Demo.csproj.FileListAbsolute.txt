@@ -1,0 +1,15 @@
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.csproj.AssemblyReference.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.AssemblyInfoInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.AssemblyInfo.cs
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.csproj.CoreCompileInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\bin\Debug\net6.0\Calculator_Demo.exe
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\bin\Debug\net6.0\Calculator_Demo.deps.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\bin\Debug\net6.0\Calculator_Demo.runtimeconfig.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\bin\Debug\net6.0\Calculator_Demo.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\bin\Debug\net6.0\Calculator_Demo.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\refint\Calculator_Demo.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\Calculator_Demo.genruntimeconfig.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Calculator_Demo\obj\Debug\net6.0\ref\Calculator_Demo.dll
