@@ -1,0 +1,15 @@
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.csproj.AssemblyReference.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.AssemblyInfoInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.AssemblyInfo.cs
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.csproj.CoreCompileInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\bin\Debug\net6.0\Enum_keyword.exe
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\bin\Debug\net6.0\Enum_keyword.deps.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\bin\Debug\net6.0\Enum_keyword.runtimeconfig.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\bin\Debug\net6.0\Enum_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\bin\Debug\net6.0\Enum_keyword.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\refint\Enum_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\Enum_keyword.genruntimeconfig.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Enum_keyword\obj\Debug\net6.0\ref\Enum_keyword.dll

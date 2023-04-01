@@ -1,0 +1,15 @@
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\bin\Debug\net6.0\params_keyword.exe
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\bin\Debug\net6.0\params_keyword.deps.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\bin\Debug\net6.0\params_keyword.runtimeconfig.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\bin\Debug\net6.0\params_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\bin\Debug\net6.0\params_keyword.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.csproj.AssemblyReference.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.AssemblyInfoInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.AssemblyInfo.cs
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.csproj.CoreCompileInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\refint\params_keyword.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\params_keyword.genruntimeconfig.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\params_keyword\obj\Debug\net6.0\ref\params_keyword.dll
