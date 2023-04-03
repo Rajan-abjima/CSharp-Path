@@ -1,0 +1,15 @@
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\bin\Debug\net6.0\Abstraction.exe
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\bin\Debug\net6.0\Abstraction.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+C:\Users\rajan\Desktop\C# Path\source\repos\3) C# Type System\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll
