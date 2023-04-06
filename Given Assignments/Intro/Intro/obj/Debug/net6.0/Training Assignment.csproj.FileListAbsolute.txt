@@ -1,0 +1,15 @@
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\bin\Debug\net6.0\Training Assignment.exe
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\bin\Debug\net6.0\Training Assignment.deps.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\bin\Debug\net6.0\Training Assignment.runtimeconfig.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\bin\Debug\net6.0\Training Assignment.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\bin\Debug\net6.0\Training Assignment.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.csproj.AssemblyReference.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.AssemblyInfoInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.AssemblyInfo.cs
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.csproj.CoreCompileInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\refint\Training Assignment.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\Training Assignment.genruntimeconfig.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Intro\Intro\obj\Debug\net6.0\ref\Training Assignment.dll
