@@ -1,0 +1,15 @@
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\bin\Debug\net6.0\Inheritance in Interface.exe
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\bin\Debug\net6.0\Inheritance in Interface.deps.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\bin\Debug\net6.0\Inheritance in Interface.runtimeconfig.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\bin\Debug\net6.0\Inheritance in Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\bin\Debug\net6.0\Inheritance in Interface.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.csproj.AssemblyReference.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.AssemblyInfoInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.AssemblyInfo.cs
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.csproj.CoreCompileInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\refint\Inheritance in Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\Inheritance in Interface.genruntimeconfig.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Inheritance in Interface\obj\Debug\net6.0\ref\Inheritance in Interface.dll
