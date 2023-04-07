@@ -1,0 +1,15 @@
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\bin\Debug\net6.0\Multiple Inheritance with Interface.exe
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\bin\Debug\net6.0\Multiple Inheritance with Interface.deps.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\bin\Debug\net6.0\Multiple Inheritance with Interface.runtimeconfig.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\bin\Debug\net6.0\Multiple Inheritance with Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\bin\Debug\net6.0\Multiple Inheritance with Interface.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.csproj.AssemblyReference.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.AssemblyInfoInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.AssemblyInfo.cs
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.csproj.CoreCompileInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\refint\Multiple Inheritance with Interface.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\Multiple Inheritance with Interface.genruntimeconfig.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 8  Interfaces\Multiple Inheritance with Interface\obj\Debug\net6.0\ref\Multiple Inheritance with Interface.dll
