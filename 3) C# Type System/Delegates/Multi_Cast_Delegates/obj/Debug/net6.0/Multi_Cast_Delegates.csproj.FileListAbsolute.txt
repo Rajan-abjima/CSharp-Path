@@ -1,0 +1,15 @@
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\bin\Debug\net6.0\Multi_Cast_Delegates.exe
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\bin\Debug\net6.0\Multi_Cast_Delegates.deps.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\bin\Debug\net6.0\Multi_Cast_Delegates.runtimeconfig.json
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\bin\Debug\net6.0\Multi_Cast_Delegates.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\bin\Debug\net6.0\Multi_Cast_Delegates.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.csproj.AssemblyReference.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.AssemblyInfoInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.AssemblyInfo.cs
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\refint\Multi_Cast_Delegates.dll
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.pdb
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\Multi_Cast_Delegates.genruntimeconfig.cache
+C:\Users\RajanBakolia\Desktop\C# Path\source\repos\C# 9 Type System\Delegates\Multi_Cast_Delegates\obj\Debug\net6.0\ref\Multi_Cast_Delegates.dll
