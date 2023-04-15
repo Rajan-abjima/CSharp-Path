@@ -1,30 +1,45 @@
-﻿namespace GameConsole
+﻿using System.CodeDom.Compiler;
+using System.Diagnostics.CodeAnalysis;
+
+namespace GameConsole
 {
     class PlayerCharacter
     {
+        private string  _name = GenerateName();
+        [AllowNull]
+        public string Name
+        {
+            get => _name;
+            set => _name = value ?? GenerateName();
+        }
+        public int? DaysSinceLastLogin { get; set; }
+        public DateTime? DateOfBirth { get; set; }
+        public bool? IsNew { get; set; }
 
-        //public string Name { get; set; }
-        //public int? DaysSinceLastLogin { get; set; }
-        //public DateTime? DateOfBirth { get; set; }
-        //public bool? IsNew { get; set; }
+        private static string GenerateName()
+        {
+            var names = new string[] { "Amrit, Gentry, Sarah" };
 
-        private readonly ISpecialDefense _specialDefence;
-        public string Name { get; set; }
+            var random = new Random();
+
+            return names[random.Next(0, 3)];
+        }
+
+        private readonly SpecialDefense _specialDefence;
         public int Health { get; private set; } = 100;
 
-        public PlayerCharacter( ISpecialDefense specialDefense)
+        public PlayerCharacter( SpecialDefense specialDefense)
         {
             _specialDefence = specialDefense;
         }
 
         public void Hit (int damage)
         {
-            int damageReduction = 0;
 
-            if (_specialDefence != null)
-            {
-                damageReduction = _specialDefence.CalculateDamageReduction();
-            }
+            //if (_specialDefence != null)
+            //{
+                int damageReduction = _specialDefence.CalculateDamageReduction();
+            //}
 
             int totalDamageTaken = Math.Abs(damage - damageReduction);
 

@@ -26,6 +26,9 @@
             //   string p2 = players?[1]?.Name;
             //   string p3 = players?[2]?.Name;
 
+            PlayerCharacter p1 = new PlayerCharacter(SpecialDefense.Null);
+            p1.Name = null;
+
             
 
             PlayerCharacter sarah = new PlayerCharacter(new DiamondSkinDefense())
@@ -38,7 +41,7 @@
                 Name = "Amrit"
             };
             
-            PlayerCharacter gentry = new PlayerCharacter(new IronBonesDefense())
+            PlayerCharacter gentry = new PlayerCharacter (SpecialDefense.Null)
             {
                 Name = "Gentry"
             };
